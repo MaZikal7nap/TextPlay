@@ -1,0 +1,19 @@
+.dark-mode-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.dark-mode-toggle.light svg {
+    color: #ff9500;
+}
+
+.dark-mode-toggle.dark svg {
+    color: #00e9f9;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #00ff59 !important;
+}
