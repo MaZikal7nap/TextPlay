@@ -1,6 +1,6 @@
-# TextPlay
+# TextPro
 
-TextPlay Is A Simple But Effective Site To Maipulate & Modify Texts.
+TextPro Is A Simple But Effective Site To Maipulate & Modify Texts.
 <br>
 
 ## Features
