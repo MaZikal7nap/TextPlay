@@ -25,7 +25,7 @@ TextPlay Is A Simple But Effective Site To Maipulate & Modify Texts.
 
 ![logo](https://github.com/MaZikal7nap/TextPlay/blob/main/Screenshot%20(214).png)
 
-<b>To See How It Looks [YouTube] <a href="https://youtu.be/9-UiOrbmRWs" target="_blank">Click Here !</a></b> 
+<b>To See How It Looks [YouTube] <a href="https://youtu.be/u4Ub_5c20q8">Click Here !</a></b> 
 <br><br>
 
 ***--------------------NOTE------------------------------***
