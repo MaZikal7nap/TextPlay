@@ -39,4 +39,6 @@ Local Host Will Work fine but when you open this (On Your Network : https://192.
 
 kindly use chatgpt for further help if its too complex for you to understand heeee...
 
+**i know i messed up project's title and name , forgot to change it to textplay  
+
   
