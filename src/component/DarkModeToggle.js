@@ -1,5 +1,5 @@
 import React from 'react';
-import './DarkModeToggle.css'; // Import CSS for styling
+import './DarkModeToggle.css'; 
 
 const DarkModeToggle = ({ mode, toggleMode }) => {
     return (
